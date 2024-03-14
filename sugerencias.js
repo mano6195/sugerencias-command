@@ -1,4 +1,4 @@
-```const {
+const {
   ChatInputCommandInteraction,
   SlashCommandBuilder,
   PermissionFlagsBits,
