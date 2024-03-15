@@ -2,4 +2,5 @@
 
 Comando de sugerencias muy simple
 
-https://cdn.discordapp.com/attachments/1206986693111058453/1217947834725302413/IMG_2113.png?ex=6605e150&is=65f36c50&hm=110f2d5211aef2ca569245bcd13c6d149ef19697c3cac5cc62623da1a7277e9e&
+![image](https://github.com/mano6195/sugerencias-command/assets/120651078/a6271913-9a7e-4705-9253-ef4b4739d21f)
+
